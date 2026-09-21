@@ -199,8 +199,8 @@ GEMINI_API_KEY=your_gemini_vision_api_key
 
 ## 👥 Contributors & Maintainers
 
-- **Shashank Prashant** ([@Shashankpr17](https://github.com/Shashankpr17)) — *Lead Developer & Architect*
-
+- **Shashank Prashant** 
+- **Saikrishna Pal**
 ---
 
 ## 📄 License
